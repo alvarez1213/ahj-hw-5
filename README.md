@@ -1,6 +1,6 @@
-#Домашнее задание к занятию "Работа с HTML-формами"
+# Домашнее задание к занятию "Работа с HTML-формами"
 
-##Popovers
+## Popovers
 
 ![CI](https://github.com/alvarez1213/ahj-hw-5/actions/workflows/web.yml/badge.svg)
 
