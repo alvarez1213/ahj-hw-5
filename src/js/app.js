@@ -1,10 +1,10 @@
-import Popover from './widget/popover';
+import Popover from "./widget/popover";
 
-const btn = document.querySelector('.btn');
+const btn = document.querySelector(".btn");
 const popover = new Popover();
 
 let firstClick = true;
-btn.addEventListener('click', () => {
+btn.addEventListener("click", () => {
   if (firstClick) {
     popover.createPopover();
 
