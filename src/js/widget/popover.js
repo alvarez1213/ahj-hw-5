@@ -34,9 +34,9 @@ export default class Popover {
     this.popover.appendChild(popoverArrow);
 
     // Positioning the arrow
-    const arrowLeft = left / 1.7 - 10 + "px";
-    popoverArrow.style.top = "-8px";
-    popoverArrow.style.left = arrowLeft;
+    // const arrowLeft = left / 1.7 - 10 + "px";
+    // popoverArrow.style.top = "-8px";
+    // popoverArrow.style.left = arrowLeft;
   }
 
   showPopover() {
